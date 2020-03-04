@@ -1,0 +1,5 @@
+﻿  Source.cpp
+Source.obj : error LNK2001: неразрешенный внешний символ ""public: virtual bool __thiscall cv::VideoCapture::open(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?open@VideoCapture@cv@@UAE_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)"
+Source.obj : error LNK2001: неразрешенный внешний символ ""public: virtual __thiscall cv::VideoCapture::~VideoCapture(void)" (??1VideoCapture@cv@@UAE@XZ)"
+Source.obj : error LNK2001: неразрешенный внешний символ ""public: __thiscall cv::VideoCapture::VideoCapture(void)" (??0VideoCapture@cv@@QAE@XZ)"
+C:\Users\Saucisse\source\repos\Manzony\Release\Manzony.exe : fatal error LNK1120: неразрешенных внешних элементов: 3
